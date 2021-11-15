@@ -7,3 +7,4 @@
 沉浸式状态栏  [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)   
 加载弹窗     [KProgressHUD](https://github.com/Kaopiz/KProgressHUD)  
 dialog弹窗   [XPopup](https://github.com/li-xiaojun/XPopup)  
+导航栏       [MagicIndicator](https://github.com/hackware1993/MagicIndicator)  
